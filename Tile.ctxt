@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tile()
+comment1.params=
+comment1.target=void\ setMine()
+comment2.params=n
+comment2.target=void\ setAdj(int)
+comment3.params=
+comment3.target=boolean\ getMine()
+comment4.params=
+comment4.target=boolean\ getMark()
+comment5.params=
+comment5.target=boolean\ getCover()
+comment6.params=
+comment6.target=void\ uncover()
+comment7.params=
+comment7.target=void\ mark()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
